@@ -1,0 +1,49 @@
+_repo: College-girls_71753
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gibson, Charles Dana
+    alias: Gibson, C. D. (Charles Dana)
+    birthdate: 1867
+    deathdate: 1944
+    gutenberg_agent_id: '26456'
+    url: http://www.gutenberg.org/2009/agents/26456
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Dana_Gibson
+creator:
+  author:
+    agent_name: Goodloe, Abbe Carter
+    aliases:
+    - Goodloe, Abbie Carter
+    - Goodloe, Carter
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '4070'
+    url: http://www.gutenberg.org/2009/agents/4070
+    wikipedia: https://en.wikipedia.org/wiki/Abbe_Carter_Goodloe
+description: ''
+gutenberg_issued: '2023-09-29'
+identifiers:
+  gutenberg: '71753'
+  lccn: '04023575'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015005912996&view=1up&seq=33&skin=2021
+pgterms:marc905: 20220722044943goodloe
+pgterms:marc906: '1895'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: '  $aNYC :$bCharles Scribner''s Sons, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women college students -- Fiction'
+- !lcsh 'College stories'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: A photograph -- An aquarelle -- "La belle Hélène" -- As told by her
+  -- A short career -- An episode -- Her decision -- Revenge -- The college beauty
+  -- A telephoned telegram -- "Miss Rose" -- A short study in evolution -- The genius
+  of Bowlder Bluff -- Time and tide.
+title: College girls
+url: http://www.gutenberg.org/ebooks/71753
