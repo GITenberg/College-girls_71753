@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26456'
     url: http://www.gutenberg.org/2009/agents/26456
     wikipedia: https://en.wikipedia.org/wiki/Charles_Dana_Gibson
+covers:
+- cover_type: archival
+  image_path: 71753-h/images/cover.jpg
 creator:
   author:
     agent_name: Goodloe, Abbe Carter
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4070
     wikipedia: https://en.wikipedia.org/wiki/Abbe_Carter_Goodloe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71753#College-girls
 gutenberg_issued: '2023-09-29'
 identifiers:
   gutenberg: '71753'
